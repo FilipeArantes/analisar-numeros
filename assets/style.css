@@ -18,6 +18,10 @@ section {
     background: white;
 }
 
+#botao {
+    margin: 5px;
+}
+
 #lista {
     width: 150px;
 }
