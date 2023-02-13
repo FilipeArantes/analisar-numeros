@@ -1,0 +1,28 @@
+body {
+    background: rgb(52, 120, 223);
+    font: normal 15pt Arial;
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.39);
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    color: black;
+    background: white;
+}
+
+#lista {
+    width: 150px;
+}
+
+footer {
+    font-style: italic;
+    text-align: center;
+}
